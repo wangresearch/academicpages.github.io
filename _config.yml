@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Microscale Transport Laboratory"
+title                    : "Microscale Transport Laboratory, Missouri University of Science and Technology"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Cheng Wang"
 description              : &description "personal description"
 url                      : https://wangresearch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Cheng Wang"
   avatar           : "profile.png"
-  bio              : "Assistant Professor Mechanical Engineering"
+  bio              : "Assistant Professor of Mechanical Engineering"
   location         : "Rolla, Missouri"
   employer         : "Missouri S&T"
   googlescholar    : "https://scholar.google.co.in/citations?user=YZvuH4kAAAAJ&hl=en"
