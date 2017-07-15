@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Cheng Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  bio              : "Assistant Professor, Department of Mechanical and Aerospace Engineering"
+  location         : "Rolla, Missouri"
+  employer         : "Missouri University of Science and Technology"
+  googlescholar    : "https://scholar.google.co.in/citations?user=YZvuH4kAAAAJ&hl=en"
+  email            : "wancheng_at_mst.edu
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
